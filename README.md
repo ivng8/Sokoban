@@ -1,1 +1,9 @@
-# Sokoban
+Sokoban, a captivating crate-moving game that ingeniously combines classic gameplay with modern enhancements. Built upon sophisticated class and interface techniques, including dispatch and abstraction for player movement and object interaction, Sokoban Master recreates the essence of the original Japanese Sokoban Crate moving game while introducing exciting new features.
+
+Classic Gameplay: Sokoban Master stays true to the classic Sokoban experience, challenging players to strategically maneuver crates to designated locations within the maze-like levels. The game preserves the original's puzzle-solving charm, providing a nostalgic yet refreshing gameplay environment.
+Class and Interface Techniques: Leveraging advanced class and interface techniques, Sokoban Master optimizes player movement and object interaction. Through abstraction, the game achieves a modular and extensible design, allowing for seamless integration of new features.
+Dispatch Mechanism: The game employs a dispatch mechanism that facilitates efficient communication between different elements in the game, ensuring smooth and responsive interactions. This enhances the overall gaming experience, allowing players to focus on the intricacies of puzzle-solving.
+Abstraction for Object Interaction: Sokoban Master utilizes abstraction to streamline object interactions, allowing for intuitive crate movements and positioning. The abstraction layer simplifies the complexity of interactions, making the game accessible to players of all skill levels.
+New Custom Features: Sokoban Master introduces exciting new elements to the traditional gameplay. Navigate through levels that feature strategically placed holes and challenging ice blocks. These custom features add an extra layer of complexity, requiring players to adapt their strategies and think creatively to overcome the enhanced puzzles.
+
+Result: Immerse yourself in a world of spatial puzzles and logical thinking. Sokoban Master offers a rich gaming experience that seamlessly blends the familiarity of Sokoban with the excitement of innovative features, providing hours of engaging and intellectually stimulating gameplay.
